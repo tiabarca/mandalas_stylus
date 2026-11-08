@@ -42,3 +42,7 @@ app/src/main/java/cat/mandala/pen/
 ## Paquete
 
 `cat.mandala.pen`
+
+## Licencia
+
+MIT. Ver [LICENSE](LICENSE).
